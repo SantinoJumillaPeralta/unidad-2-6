@@ -1,0 +1,18 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+  SFMLRenderer.cpp
+  Cannon.cpp
+C:\Users\santino\Videos\6\EsqueletoAPP\Box2dFirstApp\Src\Game.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  CannonBall.cpp
+  (compilando archivo de origen "../Src/Box2dEmptyApp.cpp")
+  
+C:\Users\santino\Videos\6\EsqueletoAPP\Box2dFirstApp\Src\Game.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+C:\Users\santino\Videos\6\EsqueletoAPP\Box2dFirstApp\Src\SFMLRenderer.h(7,10): error C1083: No se puede abrir el archivo incluir: 'Box2D/Box2D.h': No such file or directory
+  (compilando archivo de origen "../Src/SFMLRenderer.cpp")
+  
+C:\Users\santino\Videos\6\EsqueletoAPP\Box2dFirstApp\Build\Cannon.h(3,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Cannon.cpp")
+  
+  Generando código...
